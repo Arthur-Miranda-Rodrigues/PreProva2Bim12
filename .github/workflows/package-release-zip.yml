@@ -5,7 +5,7 @@ on:
        tag_name:
           description: 'Versão da Release (ex: v1.0.0)'
           required: true
-          default: 'v1.0.0'
+          default: '1.0.0'
        release_name:
           description: 'Nome da Release'
           required: true
